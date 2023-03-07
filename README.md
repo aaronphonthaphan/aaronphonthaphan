@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh, an <a href="https://www.linkedin.com/in/aaron-phonthaphan-09b5095a/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Aaron, an <a href="https://www.linkedin.com/in/aaron-phonthaphan-09b5095a/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
